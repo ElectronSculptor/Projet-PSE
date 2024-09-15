@@ -79,4 +79,4 @@ Possible future improvements:
 
 ## Acknowledgments
 
-We would like to thank our professor Xavier SERPAGGI for his guidance and our classmate Bastien GARNIER for his debugging help.
+I would like to thank my professor Xavier SERPAGGI for his guidance and my classmate Bastien GARNIER for his debugging help.
